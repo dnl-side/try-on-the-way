@@ -11,7 +11,7 @@
  * 
  * Tech Stack: React, TypeScript, date-fns, React Icons
  * 
- * @author [Your Name]
+ * @author [Daniel Jara]
  * @version 1.0.0
  */
 
