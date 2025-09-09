@@ -3,7 +3,6 @@
 **Daniel Alejandro Jara Laso**  
 *Enterprise Android Developer & IT Systems Architect*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue)](https://linkedin.com/in/daniel-jara)
 [![Email](https://img.shields.io/badge/Email-dnl.side@gmail.com-red)](mailto:dnl.side@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Sendai%20Ready-green)](https://maps.google.com/?q=Sendai,Japan)
 [![Language](https://img.shields.io/badge/Japanese-JLPT%20N1-orange)](https://jlpt.jp/)
