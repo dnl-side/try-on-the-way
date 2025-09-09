@@ -1,4 +1,4 @@
-/**
+https://github.com/dnl-side/try-on-the-way/blob/main/Global-Mobile-System/app/src/main/MainActivity.kt/**
  * MainActivity - Enterprise Employee Management Dashboard
  * 
  * A comprehensive real-time employee status tracking system featuring:
@@ -26,7 +26,7 @@
  * - Streamlined approval processes for managers
  * - Enhanced productivity through status transparency
  * 
- * @author [Your Name]
+ * @author [Daniel Jara]
  * @version 2.1.0
  * @since API level 21
  */
