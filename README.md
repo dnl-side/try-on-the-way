@@ -27,7 +27,7 @@ My unique combination of **advanced programming skills**, **Japanese business cu
 ## 🏢 Professional Experience
 
 ### **IT & Procurement Manager** | *Forestal Anchile (Daio Paper Group)* 
-**2024, febrary - Present** | Osorno, Chile
+**2024, February - Present** | Osorno, Chile
 
 - **Dual Department Leadership**: Managing both IT infrastructure and procurement operations
 - **Enterprise Android Development**: Leading mobile application development for employee management
@@ -36,7 +36,7 @@ My unique combination of **advanced programming skills**, **Japanese business cu
 - **Internal Audit Leadership**: Improving business processes through systematic analysis
 
 ### **Operations Specialist** | *NH Foods Chile*
-**2020, abril - 2024, junary** | Osorno, Chile
+**2020, April - 2024, June** | Osorno, Chile
 
 - **Financial Systems Management**: Foreign exchange and fixed asset management
 - **Internal Controls**: Supporting compliance and audit processes
@@ -44,7 +44,7 @@ My unique combination of **advanced programming skills**, **Japanese business cu
 - **Japanese Translation Services**: Meeting interpretation and document translation
 
 ### **Academic Coordinator & Japanese Instructor** | *Escuela Alameda*
-**2021, abril - Present** | Osorno, Chile *(Part-time alongside corporate role)*
+**2021, April - Present** | Osorno, Chile *(Part-time alongside corporate role)*
 
 - **Curriculum Development**: Designing Japanese language education programs
 - **System Administration**: Managing academic management systems
