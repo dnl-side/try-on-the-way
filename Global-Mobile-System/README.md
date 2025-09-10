@@ -370,3 +370,5 @@ This application demonstrates advanced Android development capabilities includin
 ---
 
 *This application represents advanced Android development capabilities suitable for enterprise deployment in professional environments with stringent requirements for security, performance, and user experience.*
+
+**Note**: This is a demonstration project showcasing professional software development capabilities. All sensitive business data has been anonymized for portfolio purposes.
