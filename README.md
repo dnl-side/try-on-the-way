@@ -1,4 +1,4 @@
-# Professional Android Development Portfolio
+# Professional Development Portfolio
 
 **Daniel Alejandro Jara Laso**  
 *Enterprise Android Developer & IT Systems Architect*
