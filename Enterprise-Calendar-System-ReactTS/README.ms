@@ -326,3 +326,5 @@ This project demonstrates proficiency in:
 ---
 
 *This project represents a commitment to technical excellence and professional software development practices. Built with attention to detail, scalability, and user experience that meets enterprise standards.*
+
+**Note**: This is a demonstration project showcasing professional software development capabilities. All sensitive business data has been anonymized for portfolio purposes.
